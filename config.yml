@@ -1,0 +1,117 @@
+languageCode: en-us
+baseURL: "https://rizkilabs.github.io"
+title: rizkilabs
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+#googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: rizkilabs
+  description: "This is the website of Rizki, Ph.D. and I create educational content on data science. Some of you may know me as the **Data Professor**."
+  keywords: [Blog, Portfolio, Software Developer]
+  author: M Rizki
+  # author: ["Me", "You"] # multiple authors
+  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  assets:
+    favicon: "images/coding-favicon.png"
+
+  label:
+    text: "rizkilabs"
+    icon: "images/coding.png"
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Hey, Welcome! \U0001F44B"
+    subtitle: "I'm Rizki, a Software Developer working in Jakarta.\n\n
+      I'm excited to share all of my knowledge with you."
+    imageUrl: "images/rizki.png"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Software Developer"
+    buttons:
+      - name: Blogs
+        url: blogs
+
+  socialIcons:
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCP5BRm0uhxUazH6nuQcvcvw"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/emrizki/"
+    - name: github
+      url: "https://github.com/rizkilabs"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+
+  editPost:
+#    URL: "https://github.com/rizkilabs/content"
+#    Text: "Suggest Changes" # edit text
+    URL: ""
+    Text: "" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: blog
+      name: Blogs
+      url: /blogs/
+      weight: 1
+    #- identifier: tags
+    #  name: tags
+    #  url: /tags/
+    #  weight: 4
+
+    #- identifier: example
+    #  name: example.org
+    #  url: https://example.org
+    #  weight: 30
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
