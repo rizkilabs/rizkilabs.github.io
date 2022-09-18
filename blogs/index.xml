@@ -2,50 +2,27 @@
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:content="https://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on rizkilabs</title>
-    <link>https://rizkilabs.github.io/blogs/</link>
+    <link>rizkilabs.com/blogs/</link>
     <description>Recent content in Blogs on rizkilabs</description>
     <image>
-      <url>https://rizkilabs.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://rizkilabs.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>rizkilabs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>rizkilabs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="https://rizkilabs.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 01:00:00 +0700</lastBuildDate><atom:link href="rizkilabs.com/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to master Streamlit for Data Science</title>
-      <link>https://rizkilabs.github.io/blogs/how-to-master-streamlit-for-data-science/</link>
-      <pubDate>Fri, 08 Apr 2022 23:15:00 +0700</pubDate>
+      <title>Customize Your VS Code Editor</title>
+      <link>rizkilabs.com/blogs/customize-vs-code-editor/</link>
+      <pubDate>Sun, 18 Sep 2022 01:00:00 +0700</pubDate>
       
-      <guid>https://rizkilabs.github.io/blogs/how-to-master-streamlit-for-data-science/</guid>
+      <guid>rizkilabs.com/blogs/customize-vs-code-editor/</guid>
       <description>I think it&amp;rsquo;s worth investing some time customizing your editor.
-First, I&amp;rsquo;ll show you how to adjust the color theme, so go to your voice code editor, and if you don&amp;rsquo;t
-have it open, just pause the video and do that.
-Then on Mac, go to code.
-Preferences, color theme.
-On Windows, it&amp;rsquo;s the same thing, but you would go to the file menu instead.
-And then you can cycle through the color themes and choose the one that you like.</description>
-    </item>
-    
-    <item>
-      <title>How to master Streamlit for Data Science</title>
-      <link>https://rizkilabs.github.io/blogs/how-to-master-streamlit-for-data-science/</link>
-      <pubDate>Fri, 08 Apr 2022 23:15:00 +0700</pubDate>
-      
-      <guid>https://rizkilabs.github.io/blogs/how-to-master-streamlit-for-data-science/</guid>
-      <description>Preview The essential Streamlit for all your data science needs To build a web app you’d typically use such Python web frameworks as Django and Flask. But the steep learning curve and the big time investment for implementing these apps present a major hurdle.
-Streamlit makes the app creation process as simple as writing Python scripts!
-In this article, you’ll learn how to master Streamlit when getting started with data science.</description>
-    </item>
-    
-    <item>
-      <title>What Is Bioinformatics</title>
-      <link>https://rizkilabs.github.io/blogs/what-is-bioinformatics/</link>
-      <pubDate>Sun, 03 Apr 2022 23:15:00 +0700</pubDate>
-      
-      <guid>https://rizkilabs.github.io/blogs/what-is-bioinformatics/</guid>
-      <description>Introduction So you probably have heard of the term Bioinformatics before, but did not get the chance to learn more about what it is and what it can do.
-In this article, I will be giving you a brief high-level overview of this exciting field of Bioinformatics. Thus, the article will be comprehensible to those coming from biology or computer backgrounds alike.
-As a biologist, I have self-taught myself data science and coding (R and Python) after several years of persistence (initially quitting a couple of times the coding concept just kind of clicked at some point in time).</description>
+First, I&amp;rsquo;ll show you how to adjust the color theme, so go to your vs code editor.
+Then on Windows, go to File -&amp;gt; Preferences -&amp;gt; Color Theme.
+On Mac, it&amp;rsquo;s the same thing, but you would go to the Code menu instead.
+And then you can cycle through the color themes and choose the one that you like.
+As I cycled through each theme, to be quite honest with you, none of these themes really appealed to me.</description>
     </item>
     
   </channel>
