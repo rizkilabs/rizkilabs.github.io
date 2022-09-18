@@ -12,13 +12,13 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Sep 2022 01:00:00 +0700</lastBuildDate><atom:link href="https://rizkilabs.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Customize Your VS Code Editor</title>
-      <link>https://rizkilabs.github.io/blogs/customize-vs-code-editor/</link>
+      <title>Customize Your VSCode Editor</title>
+      <link>https://rizkilabs.github.io/blogs/customize-vscode-editor/</link>
       <pubDate>Sun, 18 Sep 2022 01:00:00 +0700</pubDate>
       
-      <guid>https://rizkilabs.github.io/blogs/customize-vs-code-editor/</guid>
-      <description>I think it&amp;rsquo;s worth investing some time customizing your editor.
-First, I&amp;rsquo;ll show you how to adjust the color theme, so go to your vs code editor.
+      <guid>https://rizkilabs.github.io/blogs/customize-vscode-editor/</guid>
+      <description>I think it&amp;rsquo;s worth investing some time customizing your vscode editor.
+First, I&amp;rsquo;ll show you how to adjust the color theme, so go to your vscode editor.
 Then on Windows, go to File -&amp;gt; Preferences -&amp;gt; Color Theme.
 On Mac, it&amp;rsquo;s the same thing, but you would go to the Code menu instead.
 And then you can cycle through the color themes and choose the one that you like.
