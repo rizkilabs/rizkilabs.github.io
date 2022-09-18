@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:content="https://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on rizkilabs</title>
     <link>https://rizkilabs.github.io/blogs/</link>
@@ -11,6 +11,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="https://rizkilabs.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to master Streamlit for Data Science</title>
+      <link>https://rizkilabs.github.io/blogs/how-to-master-streamlit-for-data-science/</link>
+      <pubDate>Fri, 08 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>https://rizkilabs.github.io/blogs/how-to-master-streamlit-for-data-science/</guid>
+      <description>I think it&amp;rsquo;s worth investing some time customizing your editor.
+First, I&amp;rsquo;ll show you how to adjust the color theme, so go to your voice code editor, and if you don&amp;rsquo;t
+have it open, just pause the video and do that.
+Then on Mac, go to code.
+Preferences, color theme.
+On Windows, it&amp;rsquo;s the same thing, but you would go to the file menu instead.
+And then you can cycle through the color themes and choose the one that you like.</description>
+    </item>
+    
     <item>
       <title>How to master Streamlit for Data Science</title>
       <link>https://rizkilabs.github.io/blogs/how-to-master-streamlit-for-data-science/</link>
