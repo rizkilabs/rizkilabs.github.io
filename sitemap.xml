@@ -2,31 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rizkilabs.github.io/blogs/</loc>
+    <lastmod>2022-12-21T01:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rizkilabs.github.io/</loc>
+    <lastmod>2022-12-21T01:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rizkilabs.github.io/tags/sql/</loc>
+    <lastmod>2022-12-21T01:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rizkilabs.github.io/blogs/sql/1-getting-started/</loc>
+    <lastmod>2022-12-21T01:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rizkilabs.github.io/tags/</loc>
+    <lastmod>2022-12-21T01:00:00+07:00</lastmod>
+  </url><url>
     <loc>https://rizkilabs.github.io/projects/project/</loc>
     <lastmod>2022-09-18T23:15:00+07:00</lastmod>
   </url><url>
     <loc>https://rizkilabs.github.io/projects/</loc>
     <lastmod>2022-09-18T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>https://rizkilabs.github.io/</loc>
-    <lastmod>2022-09-18T23:15:00+07:00</lastmod>
-  </url><url>
     <loc>https://rizkilabs.github.io/about/</loc>
-    <lastmod>2022-09-18T01:00:00+07:00</lastmod>
-  </url><url>
-    <loc>https://rizkilabs.github.io/blogs/</loc>
     <lastmod>2022-09-18T01:00:00+07:00</lastmod>
   </url><url>
     <loc>https://rizkilabs.github.io/blogs/customize-vscode-editor/</loc>
     <lastmod>2022-09-18T01:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://rizkilabs.github.io/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>https://rizkilabs.github.io/page/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://rizkilabs.github.io/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://rizkilabs.github.io/categories/</loc>

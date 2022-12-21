@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:content="https://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogs on rizkilabs</title>
-    <link>https://rizkilabs.github.io/blogs/</link>
-    <description>Recent content in Blogs on rizkilabs</description>
+    <title>sql on rizkilabs</title>
+    <link>https://rizkilabs.github.io/tags/sql/</link>
+    <description>Recent content in sql on rizkilabs</description>
     <image>
       <url>https://rizkilabs.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://rizkilabs.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Dec 2022 01:00:00 +0700</lastBuildDate><atom:link href="https://rizkilabs.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Dec 2022 01:00:00 +0700</lastBuildDate><atom:link href="https://rizkilabs.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SQL - Getting Started</title>
       <link>https://rizkilabs.github.io/blogs/sql/1-getting-started/</link>
@@ -20,20 +20,6 @@
       <description>1. Introduction Welcome to our SQL series!
 SQL (Structured Query Language) is a programming language designed for managing and manipulating data stored in relational databases. It is a powerful tool for performing a wide range of tasks, from creating and modifying tables, to querying and analyzing data, to managing user access and security.
 Whether you are a beginner or an experienced developer, learning SQL is an essential skill for anyone working with data.</description>
-    </item>
-    
-    <item>
-      <title>Customize Your VSCode Editor</title>
-      <link>https://rizkilabs.github.io/blogs/customize-vscode-editor/</link>
-      <pubDate>Sun, 18 Sep 2022 01:00:00 +0700</pubDate>
-      
-      <guid>https://rizkilabs.github.io/blogs/customize-vscode-editor/</guid>
-      <description>I think it&amp;rsquo;s worth investing some time customizing your vscode editor.
-First, I&amp;rsquo;ll show you how to adjust the color theme, so go to your vscode editor.
-Then on Windows, go to File -&amp;gt; Preferences -&amp;gt; Color Theme.
-On Mac, it&amp;rsquo;s the same thing, but you would go to the Code menu instead.
-And then you can cycle through the color themes and choose the one that you like.
-As I cycled through each theme, to be quite honest with you, none of these themes really appealed to me.</description>
     </item>
     
   </channel>

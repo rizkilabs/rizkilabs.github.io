@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 23:15:00 +0700</lastBuildDate><atom:link href="https://rizkilabs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Dec 2022 01:00:00 +0700</lastBuildDate><atom:link href="https://rizkilabs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL - Getting Started</title>
+      <link>https://rizkilabs.github.io/blogs/sql/1-getting-started/</link>
+      <pubDate>Wed, 21 Dec 2022 01:00:00 +0700</pubDate>
+      
+      <guid>https://rizkilabs.github.io/blogs/sql/1-getting-started/</guid>
+      <description>1. Introduction Welcome to our SQL series!
+SQL (Structured Query Language) is a programming language designed for managing and manipulating data stored in relational databases. It is a powerful tool for performing a wide range of tasks, from creating and modifying tables, to querying and analyzing data, to managing user access and security.
+Whether you are a beginner or an experienced developer, learning SQL is an essential skill for anyone working with data.</description>
+    </item>
+    
     <item>
       <title>Coming soon</title>
       <link>https://rizkilabs.github.io/projects/project/</link>
