@@ -98,10 +98,10 @@ menu:
       name: Blogs
       url: /blogs/
       weight: 1
-    #- identifier: tags
-    #  name: tags
-    #  url: /tags/
-    #  weight: 4
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 4
 
     #- identifier: example
     #  name: example.org
