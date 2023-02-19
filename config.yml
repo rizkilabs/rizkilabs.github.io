@@ -18,7 +18,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: rizkilabs
-  description: "This is the website of Rizki, Ph.D. and I create educational content on data science. Some of you may know me as the **Data Professor**."
+  description: "This is the website of rizkilabs. I create educational content on Software Development. Some of you may know me as the **Full Stack Developer**."
   keywords: [Blog, Portfolio, Software Developer]
   author: M Rizki
   # author: ["Me", "You"] # multiple authors
