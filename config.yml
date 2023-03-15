@@ -62,13 +62,13 @@ params:
 
   socialIcons:
     - name: youtube
-      url: "https://www.youtube.com/channel/UCP5BRm0uhxUazH6nuQcvcvw"
+      url: "https://www.youtube.com/@rizkilabs"
     - name: linkedin
-      url: "https://www.linkedin.com/in/emrizki/"
+      url: "https://www.linkedin.com/in/rizkilabsdev/"
     - name: github
       url: "https://github.com/rizkilabs"
     - name: dev
-      url: "ap"
+      url: "https://dev.to/rizkilabs"
     - name: freecodecamp
       url: "https://www.freecodecamp.org/rizkilabs"
 
