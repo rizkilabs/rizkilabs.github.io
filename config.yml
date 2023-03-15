@@ -67,6 +67,8 @@ params:
       url: "https://www.linkedin.com/in/emrizki/"
     - name: github
       url: "https://github.com/rizkilabs"
+    - name: devto
+      url: "ap"
 
   cover:
     hidden: true # hide everywhere but not in structured data
