@@ -67,7 +67,7 @@ params:
       url: "https://www.linkedin.com/in/emrizki/"
     - name: github
       url: "https://github.com/rizkilabs"
-    - name: devto
+    - name: dev
       url: "ap"
 
   cover:
