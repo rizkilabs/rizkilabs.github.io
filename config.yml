@@ -69,6 +69,8 @@ params:
       url: "https://github.com/rizkilabs"
     - name: dev
       url: "ap"
+    - name: freecodecamp
+      url: "https://www.freecodecamp.org/rizkilabs"
 
   cover:
     hidden: true # hide everywhere but not in structured data
