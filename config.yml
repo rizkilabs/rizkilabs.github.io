@@ -52,8 +52,6 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hey, Welcome! \U0001F44B"
     subtitle: "I'm Rizki, a Software Developer working in Jakarta.
-    # \n\n
-    #   I'm excited to share all of my knowledge with you."
     imageUrl: "images/rizki.png"
     imageWidth: 120
     imageHeight: 120
