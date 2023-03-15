@@ -71,6 +71,8 @@ params:
       url: "https://dev.to/rizkilabs"
     - name: freecodecamp
       url: "https://www.freecodecamp.org/rizkilabs"
+    - name: mql5
+      url: "test"
 
   cover:
     hidden: true # hide everywhere but not in structured data
