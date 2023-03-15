@@ -51,7 +51,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hey, Welcome! \U0001F44B"
-    subtitle: "I'm Rizki, a Software Developer working in Jakarta.
+    subtitle: "I'm Rizki, a Software Developer working in Jakarta."
     imageUrl: "images/rizki.png"
     imageWidth: 120
     imageHeight: 120
