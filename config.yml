@@ -61,18 +61,20 @@ params:
     #     url: blogs
 
   socialIcons:
+    - name: github
+      url: "https://github.com/rizkilabs"
+    - name: freecodecamp
+      url: "https://www.freecodecamp.org/rizkilabs"
+    - name: dev
+      url: "https://dev.to/rizkilabs"
     - name: youtube
       url: "https://www.youtube.com/@rizkilabs"
     - name: linkedin
-      url: "https://www.linkedin.com/in/rizkilabsdev/"
-    - name: github
-      url: "https://github.com/rizkilabs"
-    - name: dev
-      url: "https://dev.to/rizkilabs"
-    - name: freecodecamp
-      url: "https://www.freecodecamp.org/rizkilabs"
+      url: "https://www.linkedin.com/in/rizkilabsdev"
+    - name: instagram
+      url: "https://www.instagram.com/rizkilabs"
     - name: mql5
-      url: "test"
+      url: "https://www.mql5.com/en/signals/1820041"
 
   cover:
     hidden: true # hide everywhere but not in structured data
